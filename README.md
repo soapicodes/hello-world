@@ -1,3 +1,4 @@
 # hello-world
 First repo
-# I am an aspiring developer
+# About me
+I am an aspiring developer
